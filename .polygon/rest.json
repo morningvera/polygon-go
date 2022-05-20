@@ -2,7 +2,6 @@
   "openapi": "3.0.3",
   "info": {
     "title": "Polygon API",
-    "description": "The future of fintech.",
     "version": "1.0.0"
   },
   "servers": [
@@ -12,7 +11,7 @@
     },
     {
       "url": "https://api.staging.polygon.io",
-      "description": "Polygon Platform API (Staging)"
+      "description": "Polygon Platform Staging API"
     }
   ],
   "x-polygon-order": {
